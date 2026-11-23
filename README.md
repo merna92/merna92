@@ -24,3 +24,4 @@ Computer Science student at Mansoura University, focused on back-end development
 
 - LinkedIn: [linkedin.com/in/mernaelatafey](https://www.linkedin.com/in/mernaelatafey/)
 - Portfolio: [merna92.github.io/portoflio2](https://merna92.github.io/portoflio2/)
+- YouTube: [باك إند من أول سطر](https://www.youtube.com/@BackendFromLineOne)
